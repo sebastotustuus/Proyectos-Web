@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no">
+	<title>
+		Formularios
+	</title>
+</head>
+<body>
+	<h1>Registro en Nuestra Tienda</h1>
+	<form>
+		<p>
+			<label for="Nombre">Nombre de Usuario:</label>
+			<br>
+			<input type="text" name="username" placeholder="Ej:Sebastian " required="">
+		</p>
+		
+		<p>
+			<label for="Email" name="email">Correo Electrónico:</label>
+			<br>
+			<input type="email" name="email" placeholder="Ej:info@gmail.com" required="">
+		</p>
+			
+		<p>
+			<label for="number" name="edad">Edad:</label>
+			<br>
+			<input type="number" name="edad" placeholder="Ej:22">
+		</p>
+			
+		<p>
+			<label for="genero">Género</label><br>
+			<input type="radio" name="genero"> Masculino
+			<br>
+			<input type="radio" name="genero"> Femenino
+		</p>
+		
+		<p>
+			<label for="recomend">Recomendado Por:</label><br>
+				<select name="company">
+					<option value="1">Google</option>
+					<option value="2">Microsoft</option>
+					<option value="3">Apple</option>
+				</select>
+		</p>
+		
+		<p>
+			<label for="texto" name="textarea"></label>
+			<textarea name="area_texto"></textarea>
+		</p>
+		
+		<p>
+			<label for="condiciones" name="terminos_condiciones">Acepto los Términos y condiciones</label><br>
+			<input type="checkbox" name="accept">
+		</p>
+			
+		<p>
+			<input type="submit" name="agree">
+		</p>
+		
+
+	</form>
+
+	<p><a href="prueba3.html" title="back">Volver Página inicial</a></p>
+
+
+</body>
+</html>
