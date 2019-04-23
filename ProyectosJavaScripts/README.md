@@ -1,6 +1,6 @@
 # Sobre Los Proyectos En Javascript
 
-<img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/En2e4Hm-796x398.jpg" alt="ImagenJavascript">
+<img src="https://github.com/sebastotustuus/Proyectos-Web/blob/master/ProyectosJavaScripts/Javascript.jpg" alt="ImagenJavascript">
 
 En este espacio se encontrarán diversos proyectos de Javascript realizados de Manera Nativa. Estos se irán actualizando con más proyectos conforme pasa el tiempo.
 Cada uno de estos prpyectos usa técnicas de programación diferentes según la necesidad. 
