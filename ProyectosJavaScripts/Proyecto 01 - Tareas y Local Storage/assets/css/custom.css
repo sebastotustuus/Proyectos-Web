@@ -1,0 +1,29 @@
+h1, h2 {
+    text-align: center;
+}
+
+#contenido {
+    margin-top: 40px;
+}
+.borrar-tweet,
+.borrar-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+
+li {
+    text-align: left;
+    text-decoration: none;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-size: 20px;
+    font-style: italic;
+    list-style: none;        
+}
+
+.boton_Borrar{
+    align-content: center;
+    margin-top: 20px;
+    margin-left: 60px;
+}
